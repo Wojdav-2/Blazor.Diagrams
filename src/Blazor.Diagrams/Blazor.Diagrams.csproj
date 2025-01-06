@@ -11,7 +11,7 @@
     <Version>3.0.3</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageTags>blazor diagrams diagramming svg drag</PackageTags>
-    <PackageId>Z.Blazor.Diagrams</PackageId>
+    <PackageId>Z.Blazor.Diagrams.WoCustom</PackageId>
     <PackageProjectUrl>https://blazor-diagrams.zhaytam.com/</PackageProjectUrl>
     <Product>Z.Blazor.Diagrams</Product>
     <PackageIcon>ZBD.png</PackageIcon>
